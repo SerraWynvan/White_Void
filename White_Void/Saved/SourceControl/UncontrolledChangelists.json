@@ -1,0 +1,23 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"A:/Unreal/White_Void/White_Void/Content/FirstPersonAdventure/Blueprints/InteractionSystem/AC_InteractionSystem.uasset",
+				"A:/Unreal/White_Void/White_Void/Content/FirstPersonAdventure/Blueprints/InteractionSystem/I_Interactable.uasset",
+				"A:/Unreal/White_Void/White_Void/Content/FirstPersonAdventure/Blueprints/InteractionSystem/A_Grapable_Base.uasset",
+				"A:/Unreal/White_Void/White_Void/Content/FirstPersonAdventure/Blueprints/InteractionSystem/FL_InteractionSystem.uasset",
+				"A:/Unreal/White_Void/White_Void/Content/FirstPersonAdventure/Blueprints/InteractionSystem/A_Lever.uasset",
+				"A:/Unreal/White_Void/White_Void/Content/FirstPersonAdventure/Maps/L_FirstPerson.umap",
+				"A:/Unreal/White_Void/White_Void/Content/FirstPersonAdventure/Blueprints/InteractionSystem/A_InteractableTest.uasset",
+				"A:/Unreal/White_Void/White_Void/Content/FirstPersonAdventure/Assets/Blockout/SM_Cube.uasset",
+				"A:/Unreal/White_Void/White_Void/Content/FirstPersonAdventure/Blueprints/InteractionSystem/A_InteractPushAway.uasset",
+				"A:/Unreal/White_Void/White_Void/Content/FirstPersonAdventure/Assets/Blockout/SM_Paper.uasset",
+				"A:/Unreal/White_Void/White_Void/Content/FirstPersonAdventure/Blueprints/Core/PC_FirstPerson.uasset",
+				"A:/Unreal/White_Void/White_Void/Content/FirstPersonAdventure/Blueprints/Core/E_ControllerStates.uasset"
+			]
+		}
+	]
+}
